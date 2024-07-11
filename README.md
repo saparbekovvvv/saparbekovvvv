@@ -3,9 +3,9 @@
 <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5" /> <img src="https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3" /> <img src="https://img.shields.io/badge/styledcomponents-grey?style=for-the-badge&logo=styledcomponents" /> <img src="https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript" /> <img src="https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/vite-grey?style=for-the-badge&logo=vite" />
  <img src="https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux" /> <img src="https://img.shields.io/badge/firebase-grey?style=for-the-badge&logo=firebase" /> <img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github" />  <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git" /> 
 
-# - socials: <a href="https://t.me/saparbekovvw" target="_blank"> <img src="https://img.shields.io/badge/telegram-20B2AA?style=for-the-badge&logo=telegram" /></a>
+# - socials: <a href="https://t.me/saparbekovvw" target="_blank"> <img src="https://img.shields.io/badge/telegram-20B2AA?style=for-the-badge&logo=telegram" /></a> <a href="https://www.linkedin.com/in/khamza-saparbekov-641552316/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-0000CD?style=for-the-badge&logo=linkedin" /></a>
 
-
+# - tasks: <a href="https://www.codewars.com/users/saparbekovvvv._" target="_blank"> <img src="https://img.shields.io/badge/codewars-BC8F8F?style=for-the-badge&logo=codewars" /></a>
 
 
 
